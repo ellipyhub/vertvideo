@@ -13,7 +13,7 @@ setup(
     keywords='audio video file convert',
     install_requires=[
         'autopep8==1.5.7',
-        'certifi==2021.5.30',
+        'certifi==2022.12.7',
         'charset-normalizer==2.0.3',
         'decorator==4.4.2',
         'idna==3.2',
